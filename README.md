@@ -3,6 +3,9 @@
 ### Ссылка на первый коллаб
 https://colab.research.google.com/drive/1de-zxAcIaiWrtewG6m6oy13FWckhCPDp?usp=sharing
 
+### Ссылка на второй коллаб
+https://colab.research.google.com/drive/1cRHuua2QfN-JljLkGeTRxDTMzv3cjXqO?usp=sharing
+
 ***
 Общее количество: 3565
 
