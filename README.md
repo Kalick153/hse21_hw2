@@ -4,7 +4,7 @@
 https://colab.research.google.com/drive/1de-zxAcIaiWrtewG6m6oy13FWckhCPDp?usp=sharing
 
 ***
-Всего генов: 3565
+Общее количество: 3565
 
 Аннотировано с помощью MIL-1: 3281
 
